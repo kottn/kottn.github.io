@@ -6,7 +6,7 @@
     <description>Recent content on kottn&#39;s posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Mar 2018 20:40:15 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 21:12:04 +0900</lastBuildDate>
     
 	<atom:link href="https://kottn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>About</title>
       <link>https://kottn.github.io/about/</link>
-      <pubDate>Sun, 18 Mar 2018 20:40:15 +0900</pubDate>
+      <pubDate>Sun, 18 Mar 2018 21:12:04 +0900</pubDate>
       
       <guid>https://kottn.github.io/about/</guid>
       <description>comming soon!</description>
@@ -22,10 +22,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://kottn.github.io/2018/03/hello-world/</link>
+      <link>https://kottn.github.io/2018/hello-world/</link>
       <pubDate>Thu, 15 Mar 2018 15:35:29 +0900</pubDate>
       
-      <guid>https://kottn.github.io/2018/03/hello-world/</guid>
+      <guid>https://kottn.github.io/2018/hello-world/</guid>
       <description> Hi ! こんにちは！これが私の hugo 初投稿です。 皆さん、よろしくお願いいたします！  箇条書きも できるよ  </description>
     </item>
     
