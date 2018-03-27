@@ -6,46 +6,10 @@
     <description>Recent content in Tags on kottn&#39;s posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Mar 2018 15:42:00 +0900</lastBuildDate>
+    <copyright>2017 kottn.</copyright>
     
 	<atom:link href="https://kottn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Beginner</title>
-      <link>https://kottn.github.io/tags/beginner/</link>
-      <pubDate>Thu, 15 Mar 2018 15:42:00 +0900</pubDate>
-      
-      <guid>https://kottn.github.io/tags/beginner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://kottn.github.io/tags/github/</link>
-      <pubDate>Thu, 15 Mar 2018 15:35:29 +0900</pubDate>
-      
-      <guid>https://kottn.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://kottn.github.io/tags/hugo/</link>
-      <pubDate>Thu, 15 Mar 2018 15:42:00 +0900</pubDate>
-      
-      <guid>https://kottn.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://kottn.github.io/tags/test/</link>
-      <pubDate>Thu, 15 Mar 2018 15:42:00 +0900</pubDate>
-      
-      <guid>https://kottn.github.io/tags/test/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
