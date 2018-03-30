@@ -25,7 +25,13 @@ footer {
 
 main {
   margin: 4rem 0;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+}
+
+pre, code, var, samp, kbd, .mono {
+  font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
+  font-size: 1.1rem;
+  line-height: 1.2;
 }
 
 .container {
@@ -60,7 +66,7 @@ main {
 }
 
 .entry-meta {
-  font-family:"Candara","Yu Gothic Medium", "游ゴシック Medium";
+  font-family:"Candara", "TimesNewRoman";
   display: inline-block;
   margin-bottom: 2rem;
   font-size: 1.2rem;
@@ -68,7 +74,7 @@ main {
 }
 
 .footer-link {
-  font-family:"Candara","Yu Gothic Medium", "游ゴシック Medium";
+  font-family:"Candara", "TimesNewRoman";
   font-size: 1.3rem;
   margin: 2rem 0;
 }
