@@ -5,7 +5,7 @@
     <link>/tags/</link>
     <description>Recent content in Tags on kottn.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Tue, 08 May 2018 19:19:18 +0900</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -48,9 +48,18 @@
     </item>
     
     <item>
+      <title>Memo</title>
+      <link>/tags/memo/</link>
+      <pubDate>Thu, 31 May 2018 21:25:25 +0900</pubDate>
+      
+      <guid>/tags/memo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Post</title>
       <link>/tags/post/</link>
-      <pubDate>Wed, 09 May 2018 20:37:32 +0900</pubDate>
+      <pubDate>Thu, 31 May 2018 21:25:25 +0900</pubDate>
       
       <guid>/tags/post/</guid>
       <description></description>
