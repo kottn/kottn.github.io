@@ -3,102 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2018/05/31/convert-gif-to-png/</loc>
+    <loc>https://kottn.me/2018/05/convert-gif-to-png/</loc>
     <lastmod>2018-05-31T21:25:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/05/09/japanese-test/</loc>
+    <loc>https://kottn.me/2018/05/japanese-test/</loc>
     <lastmod>2018-05-09T20:37:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/05/08/shortcode-test/</loc>
+    <loc>https://kottn.me/2018/05/shortcode-test/</loc>
     <lastmod>2018-05-08T19:19:18+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://kottn.me/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://kottn.me/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/cheetsheet/</loc>
+    <loc>https://kottn.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.me/tags/cheetsheet/</loc>
     <lastmod>2018-05-08T19:19:18+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/code/</loc>
+    <loc>https://kottn.me/tags/code/</loc>
     <lastmod>2018-05-08T19:19:18+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/code/</loc>
+    <loc>https://kottn.me/categories/code/</loc>
     <lastmod>2018-05-31T21:25:25+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/commandline/</loc>
+    <loc>https://kottn.me/tags/commandline/</loc>
     <lastmod>2018-05-31T21:25:25+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/embedcode/</loc>
+    <loc>https://kottn.me/tags/embedcode/</loc>
     <lastmod>2018-05-08T19:19:18+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://kottn.me/</loc>
     <lastmod>2018-05-31T21:25:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/japanese/</loc>
+    <loc>https://kottn.me/tags/japanese/</loc>
     <lastmod>2018-05-09T20:37:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/others/</loc>
+    <loc>https://kottn.me/categories/others/</loc>
     <lastmod>2018-05-09T20:37:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://kottn.me/post/</loc>
     <lastmod>2018-05-31T21:25:25+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/quick/</loc>
+    <loc>https://kottn.me/tags/quick/</loc>
     <lastmod>2018-05-31T21:25:25+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/shortcode/</loc>
+    <loc>https://kottn.me/tags/shortcode/</loc>
     <lastmod>2018-05-08T19:19:18+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://kottn.me/tags/</loc>
     <lastmod>2018-05-08T19:19:18+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/test/</loc>
+    <loc>https://kottn.me/tags/test/</loc>
     <lastmod>2018-05-09T20:37:32+09:00</lastmod>
     <priority>0</priority>
   </url>

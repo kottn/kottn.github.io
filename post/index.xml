@@ -2,39 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kottn.me</title>
-    <link>/post/</link>
+    <link>https://kottn.me/post/</link>
     <description>Recent content in Posts on kottn.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 31 May 2018 21:25:25 +0900</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kottn.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GIF動画をPNGに連番で分解する</title>
-      <link>/post/2018/05/31/convert-gif-to-png/</link>
+      <link>https://kottn.me/2018/05/convert-gif-to-png/</link>
       <pubDate>Thu, 31 May 2018 21:25:25 +0900</pubDate>
       
-      <guid>/post/2018/05/31/convert-gif-to-png/</guid>
-      <description>foo.gifを、bar-0001.png, bar-0002.png,&amp;hellip;みたいに分解したい。 $ convert +adjoin foo.gif bar-%04d.png convertをつかえば</description>
+      <guid>https://kottn.me/2018/05/convert-gif-to-png/</guid>
+      <description>foo.gifを、bar-0001.png, bar-0002.png,&amp;hellip;みたいに分解したい。
+$ convert +adjoin foo.gif bar-%04d.png  program hoge integer :: i, j, k write(*,*) end program  convertをつかえば簡単だった。</description>
     </item>
     
     <item>
       <title>日本語のテスト</title>
-      <link>/post/2018/05/09/japanese-test/</link>
+      <link>https://kottn.me/2018/05/japanese-test/</link>
       <pubDate>Wed, 09 May 2018 20:37:32 +0900</pubDate>
       
-      <guid>/post/2018/05/09/japanese-test/</guid>
-      <description>これは 日本語の テスト this is the test 私は昨日ついにその助力家というのの上よりするたなけれ。 最も今をお話団はちょうどこの前後なかろでくらいに困りがいる</description>
+      <guid>https://kottn.me/2018/05/japanese-test/</guid>
+      <description>これは 日本語の テスト
+this is the test  私は昨日ついにその助力家というのの上よりするたなけれ。 最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。 がたを知っないはずも同時に九月をいよいよたありた。
+もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。
+ それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。めでたしめでたし。
+ この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。
+From すぐ使えるダミーテキスト - 日本語 Lorem ipsum</description>
     </item>
     
     <item>
       <title>Shortcode Test</title>
-      <link>/post/2018/05/08/shortcode-test/</link>
+      <link>https://kottn.me/2018/05/shortcode-test/</link>
       <pubDate>Tue, 08 May 2018 19:19:18 +0900</pubDate>
       
-      <guid>/post/2018/05/08/shortcode-test/</guid>
+      <guid>https://kottn.me/2018/05/shortcode-test/</guid>
       <description>Demo Example gist  Example speaker deck  Example tweet WSL に Debian 9 キテターーー！！　https://t.co/UJNpMN7dBM
 &amp;mdash; 🌒🌓🌔🌕 🌖🌗🌘🌑 (@kottn_jp) March 8, 2018  Example youtube    Cool!</description>
     </item>
