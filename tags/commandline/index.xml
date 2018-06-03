@@ -17,8 +17,7 @@
       <pubDate>Thu, 31 May 2018 21:25:25 +0900</pubDate>
       
       <guid>https://kottn.me/2018/05/convert-gif-to-png/</guid>
-      <description>foo.gifを、bar-0001.png, bar-0002.png,&amp;hellip;みたいに分解したい。
-$ convert +adjoin foo.gif bar-%04d.png  program hoge integer :: i, j, k write(*,*) end program  convertをつかえば簡単だった。</description>
+      <description>foo.gifを、bar-0001.png, bar-0002.png,&amp;hellip;みたいに分解したい。 $ convert +adjoin foo.gif bar-%04d.png convertをつかえば</description>
     </item>
     
   </channel>
