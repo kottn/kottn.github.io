@@ -13,16 +13,11 @@ body {
   background: var(--bg-color-spring);
 }
 
-/* @font-face { */
-/*     font-family: 'Consolas'; */
-/*       src: url('fonts/consola.ttf') format ('truetype') */
-/* } */
-
-code, kbd, pre {
-    /* font-family: "Consolas","Monaco","Inconsolata",monospace; */
-    font-family: "Consolas","Monaco",monospace;
-}
-
 .md-content h2 {
   border-bottom: .1rem solid rgba(0,0,0,.07);
 }
+
+code, kbd, pre {
+    font-family: "Consolas","Monaco","Roboto Mono",monospace;
+}
+
