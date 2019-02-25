@@ -2,17 +2,20 @@ body {
   background: url(images/spring.svg) no-repeat;
   background-size: contain;
 }
-
 :root {
 --bg-color-spring: linear-gradient(90deg,#fffbe9,#ffeacfa8,#ffe6ed8c,#ffa7c761); 
 --bg-color-summer: linear-gradient(90deg,#fffbe9,#ffeacfa8,#ffe6ed8c,#ffa7c761); 
 --bg-color-autumn: linear-gradient(90deg,#fffbe9,#ffeacfa8,#ffe6ed8c,#ffa7c761); 
 --bg-color-winter: linear-gradient(90deg,#fffbe9,#ffeacfa8,#ffe6ed8c,#ffa7c761); 
 }
-
 [data-md-color-primary=white] .md-header,
 [data-md-color-primary=white] .md-tabs {
   background: var(--bg-color-spring);
+}
+
+@font-face {
+    font-family: 'Consolas';
+      src: url('fonts/consola.ttf') format ('truetype')
 }
 
 .md-content h2 {
