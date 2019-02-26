@@ -1,11 +1,11 @@
-body {
-  background: url(images/spring.svg) no-repeat;
-  background-size: contain;
-}
-[data-md-color-primary=white] .md-header,
-[data-md-color-primary=white] .md-tabs {
-  background: var(--bg-color-spring);
-}
+/* body { */
+/*   background: url(images/spring.svg) no-repeat; */
+/*   background-size: contain; */
+/* } */
+/* [data-md-color-primary=white] .md-header, */
+/* [data-md-color-primary=white] .md-tabs { */
+/*   background: var(--bg-color-spring); */
+/* } */
 
 .md-header {
   /* font-family:'Kaushan Script'; */
