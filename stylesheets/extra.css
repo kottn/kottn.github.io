@@ -10,7 +10,7 @@ body {
 .md-header {
   font-family:'Kaushan Script'; font-size: .8rem;
 }
-.md-typeset {
+body .md-typeset {
   font-size: .7rem;
 }
 .md-typeset h1 {
