@@ -1,0 +1,15 @@
+/*
+ * 丸枠の図を挿入したい場所で
+ * <img class="img-circle" src="<URL>" width="20" height="20">
+ */
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.border_radius {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+}
+
