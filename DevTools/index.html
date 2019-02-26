@@ -476,48 +476,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#highlighting-specific-lines" title="Highlighting specific lines" class="md-nav__link">
-    Highlighting specific lines
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#mathjax" title="MathJax" class="md-nav__link">
-    MathJax
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#caret" title="Caret" class="md-nav__link">
-    Caret
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tilde" title="Tilde" class="md-nav__link">
-    Tilde
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#fontawesome" title="Fontawesome" class="md-nav__link">
-    Fontawesome
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-list" title="Define list" class="md-nav__link">
-    Define list
-  </a>
-  
-</li>
-      
       
       
       
@@ -821,48 +779,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#highlighting-specific-lines" title="Highlighting specific lines" class="md-nav__link">
-    Highlighting specific lines
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#mathjax" title="MathJax" class="md-nav__link">
-    MathJax
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#caret" title="Caret" class="md-nav__link">
-    Caret
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tilde" title="Tilde" class="md-nav__link">
-    Tilde
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#fontawesome" title="Fontawesome" class="md-nav__link">
-    Fontawesome
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#define-list" title="Define list" class="md-nav__link">
-    Define list
-  </a>
-  
-</li>
-      
       
       
       
@@ -890,79 +806,66 @@
                   <a href="https://github.com/kottn/mypage/edit/master/docs/DevTools/index.md" title="編集" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="welcome-to-mkdocs">Welcome to MkDocs<a class="headerlink" href="#welcome-to-mkdocs" title="Permanent link">&para;</a></h1>
+                <h1 id="welcome-to-mkdocs">Welcome to MkDocs</h1>
 <p>For full documentation visit <a href="https://mkdocs.org">mkdocs.org</a>.</p>
-<ul class="task-list">
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> one</li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> two</li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> three</li>
+<ul>
+<li>[ ] one</li>
+<li>[x] two</li>
+<li>[ ] three</li>
 </ul>
-<p><span class="keys"><kbd class="key-control">Ctrl</kbd><span>+</span><kbd class="key-alt">Alt</kbd><span>+</span><kbd class="key-delete">Del</kbd></span></p>
-<h3 id="grouping-code-blocks">Grouping code blocks<a class="headerlink" href="#grouping-code-blocks" title="Permanent link">&para;</a></h3>
-<div class="superfences-tabs">
-<input name="__tabs_1" type="radio" id="__tab_1_0" checked="checked" />
-<label for="__tab_1_0">Bash</label>
-<div class="superfences-content"><div class="codehilite"><pre><span></span><span class="ch">#!/bin/bash</span>
+<p>++ctrl+alt+delete++</p>
+<h3 id="grouping-code-blocks">Grouping code blocks</h3>
+<p>``` bash tab="Bash"</p>
+<h1 id="binbash">!/bin/bash</h1>
+<p>echo "Hello world!"</p>
+<pre><code>
+``` c tab=&quot;C&quot;
+#include &lt;stdio.h&gt;
 
-<span class="nb">echo</span> <span class="s2">&quot;Hello world!&quot;</span>
-</pre></div></div>
-<input name="__tabs_1" type="radio" id="__tab_1_1" />
-<label for="__tab_1_1">C</label>
-<div class="superfences-content"><div class="codehilite"><pre><span></span><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp"></span>
+int main(void) {
+    printf(&quot;Hello world!\n&quot;);
+}
+</code></pre>
 
-<span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span> <span class="p">{</span>
-    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;Hello world!</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">);</span>
-<span class="p">}</span>
-</pre></div></div>
-<input name="__tabs_1" type="radio" id="__tab_1_2" />
-<label for="__tab_1_2">C++</label>
-<div class="superfences-content"><div class="codehilite"><pre><span></span><span class="cp">#include</span> <span class="cpf">&lt;iostream&gt;</span><span class="cp"></span>
+<p>``` c++ tab="C++"</p>
+<h1 id="include">include <iostream></h1>
+<p>int main() {
+    std::cout &lt;&lt; "Hello world!" &lt;&lt; std::endl;
+      return 0;
+}</p>
+<pre><code>
+``` c# tab=&quot;C#&quot;
+using System;
 
-<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
-    <span class="n">std</span><span class="o">::</span><span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">&quot;Hello world!&quot;</span> <span class="o">&lt;&lt;</span> <span class="n">std</span><span class="o">::</span><span class="n">endl</span><span class="p">;</span>
-      <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-</pre></div></div>
-<input name="__tabs_1" type="radio" id="__tab_1_3" />
-<label for="__tab_1_3">C#</label>
-<div class="superfences-content"><div class="codehilite"><pre><span></span><span class="k">using</span> <span class="nn">System</span><span class="p">;</span>
+class Program {
+    static void Main(string[] args) {
+          Console.WriteLine(&quot;Hello world!&quot;);
+            }
+}
+</code></pre>
 
-<span class="k">class</span> <span class="nc">Program</span> <span class="p">{</span>
-    <span class="k">static</span> <span class="k">void</span> <span class="nf">Main</span><span class="p">(</span><span class="kt">string</span><span class="p">[]</span> <span class="n">args</span><span class="p">)</span> <span class="p">{</span>
-          <span class="n">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s">&quot;Hello world!&quot;</span><span class="p">);</span>
-            <span class="p">}</span>
-<span class="p">}</span>
-</pre></div></div>
-</div>
-<h3 id="highlighting-specific-lines">Highlighting specific lines<a class="headerlink" href="#highlighting-specific-lines" title="Permanent link">&para;</a></h3>
-<div class="codehilite"><pre><span></span><span class="sd">&quot;&quot;&quot; Bubble sort &quot;&quot;&quot;</span>
-<span class="k">def</span> <span class="nf">bubble_sort</span><span class="p">(</span><span class="n">items</span><span class="p">):</span>
-<span class="hll">    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">items</span><span class="p">)):</span>
-</span><span class="hll">        <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">items</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span> <span class="o">-</span> <span class="n">i</span><span class="p">):</span>
-</span>            <span class="k">if</span> <span class="n">items</span><span class="p">[</span><span class="n">j</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">items</span><span class="p">[</span><span class="n">j</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]:</span>
-                <span class="n">items</span><span class="p">[</span><span class="n">j</span><span class="p">],</span> <span class="n">items</span><span class="p">[</span><span class="n">j</span> <span class="o">+</span> <span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">items</span><span class="p">[</span><span class="n">j</span> <span class="o">+</span> <span class="mi">1</span><span class="p">],</span> <span class="n">items</span><span class="p">[</span><span class="n">j</span><span class="p">]</span>
-</pre></div>
+<h3 id="highlighting-specific-lines">Highlighting specific lines</h3>
+<pre><code class="python">&quot;&quot;&quot; Bubble sort &quot;&quot;&quot;
+def bubble_sort(items):
+    for i in range(len(items)):
+        for j in range(len(items) - 1 - i):
+            if items[j] &gt; items[j + 1]:
+                items[j], items[j + 1] = items[j + 1], items[j]
+</code></pre>
 
-<h3 id="mathjax">MathJax<a class="headerlink" href="#mathjax" title="Permanent link">&para;</a></h3>
-<div>
-<div class="MathJax_Preview">
+<h3 id="mathjax">MathJax</h3>
+<p>$$
 \frac{n!}{k!(n-k)!} = \binom{n}{k}
-</div>
-<script type="math/tex; mode=display">
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
-</script>
-</div>
-<h3 id="caret">Caret<a class="headerlink" href="#caret" title="Permanent link">&para;</a></h3>
-<p>This is the <ins>Caret</ins>.</p>
-<h3 id="tilde">Tilde<a class="headerlink" href="#tilde" title="Permanent link">&para;</a></h3>
-<p>text has <del>gone</del>.</p>
-<h3 id="fontawesome">Fontawesome<a class="headerlink" href="#fontawesome" title="Permanent link">&para;</a></h3>
-<p><i class="fa fa-coffee"></i></p>
-<h3 id="define-list">Define list<a class="headerlink" href="#define-list" title="Permanent link">&para;</a></h3>
-<dl>
-<dt>定義</dt>
-<dd>foobar</dd>
-</dl>
+$$</p>
+<h3 id="caret">Caret</h3>
+<p>This is the ^^Caret^^.</p>
+<h3 id="tilde">Tilde</h3>
+<p>text has ~~gone~~.</p>
+<h3 id="fontawesome">Fontawesome</h3>
+<p>:fa-coffee:</p>
+<h3 id="define-list">Define list</h3>
+<p>定義
+:    foobar</p>
                 
                   
                 
