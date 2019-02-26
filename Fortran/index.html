@@ -71,12 +71,6 @@
       <link rel="manifest" href="../manifest.webmanifest">
     
     
-      <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosansjp.css">
-    
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:600,800">
-    
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
-    
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     
       <link rel="stylesheet" href="../stylesheets/color.css">
@@ -566,6 +560,12 @@
       
       
       
+        <li class="md-nav__item">
+          <a href="#__comments" title="コメント" class="md-nav__link md-nav__link--active">
+            コメント
+          </a>
+        </li>
+      
     </ul>
   
 </nav>
@@ -803,6 +803,12 @@
       
       
       
+        <li class="md-nav__item">
+          <a href="#__comments" title="コメント" class="md-nav__link md-nav__link--active">
+            コメント
+          </a>
+        </li>
+      
     </ul>
   
 </nav>
@@ -855,6 +861,22 @@ docs/
                 
 
 
+  <h2 id="__comments">コメント</h2>
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = "https://github.com/kottn/mypage/Fortran/";
+      this.page.identifier =
+        "/Fortran/";
+    };
+    (function() {
+      var d = document, s = d.createElement("script");
+      s.src = "//kottn.disqus.com/embed.js";
+      s.setAttribute("data-timestamp", +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+
               
             </article>
           </div>
@@ -904,7 +926,7 @@ docs/
       <div class="md-footer-copyright">
         
           <div class="md-footer-copyright__highlight">
-            Copyright &copy; 2016 kottn
+            &copy; 2018 kottn
           </div>
         
         powered by

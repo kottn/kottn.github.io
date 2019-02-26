@@ -69,12 +69,6 @@
       <link rel="manifest" href="/kottn/mypage/manifest.webmanifest">
     
     
-      <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosansjp.css">
-    
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:600,800">
-    
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
-    
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     
       <link rel="stylesheet" href="/kottn/mypage/stylesheets/color.css">
@@ -713,6 +707,22 @@
                 
 
 
+  <h2 id="__comments">コメント</h2>
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = "";
+      this.page.identifier =
+        "";
+    };
+    (function() {
+      var d = document, s = d.createElement("script");
+      s.src = "//kottn.disqus.com/embed.js";
+      s.setAttribute("data-timestamp", +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+
               
             </article>
           </div>
@@ -727,7 +737,7 @@
       <div class="md-footer-copyright">
         
           <div class="md-footer-copyright__highlight">
-            Copyright &copy; 2016 kottn
+            &copy; 2018 kottn
           </div>
         
         powered by
