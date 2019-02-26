@@ -1,0 +1,33 @@
+body {
+  background: url(images/spring.svg) no-repeat;
+  background-size: contain;
+}
+[data-md-color-primary=white] .md-header,
+[data-md-color-primary=white] .md-tabs {
+  background: var(--bg-color-spring);
+}
+
+.md-header {
+  font-family:'Kaushan Script';
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
+}
+.md-typeset {
+  font-size: .7rem;
+}
+.md-typeset h1 {
+  font-weight: bold;
+}
+.md-typeset h2 {
+  border-bottom: .1rem dotted rgba(0,0,0,.07);
+}
+.md-footer-nav {
+  background-color: rgba(0,0,0,.75)
+}
+.md-footer-meta {
+  background-color: rgba(0,0,0,.83)
+}
+
+code, kbd, pre {
+  font-family: "Consolas","Monaco","Inconsolata",monospace;
+}
+
