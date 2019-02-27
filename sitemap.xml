@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://github.com/kottn/mypage/</loc>
+     <loc>https://kottn.me/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/DevTools/</loc>
+     <loc>https://kottn.me/About/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/FEM/</loc>
+     <loc>https://kottn.me/DevTools/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/Fortran/</loc>
+     <loc>https://kottn.me/FEM/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/Miscellaneous/</loc>
+     <loc>https://kottn.me/Fortran/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/Python/</loc>
+     <loc>https://kottn.me/Miscellaneous/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/R/</loc>
+     <loc>https://kottn.me/Python/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/Windows/</loc>
+     <loc>https://kottn.me/R/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://github.com/kottn/mypage/about/</loc>
+     <loc>https://kottn.me/Windows/</loc>
      <lastmod>2019-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>

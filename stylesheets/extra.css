@@ -16,9 +16,9 @@ body {
 .md-header {
   text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
 }
-.md-typeset {
-  font-size: .7rem;
-}
+/* .md-typeset { */
+/*   font-size: .75rem; */
+/* } */
 .md-typeset h1 {
   text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
 }
