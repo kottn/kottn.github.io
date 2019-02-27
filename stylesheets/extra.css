@@ -33,6 +33,5 @@ body {
 }
 
 code, kbd, pre {
-  font-family: "Consolas","Monaco","Roboto Mono",monospace;
+  font-family: "Consolas","Monaco","Inconsolata","Roboto Mono",monospace;
 }
-
