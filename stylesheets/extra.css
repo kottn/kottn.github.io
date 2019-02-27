@@ -13,12 +13,6 @@ body {
   background: var(--bg-color-spring);
 }
 
-.md-header {
-  text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
-}
-/* .md-typeset { */
-/*   font-size: .75rem; */
-/* } */
 .md-typeset h1 {
   text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
 }
@@ -32,6 +26,9 @@ body {
   background-color: rgba(0,0,0,.83)
 }
 
-code, kbd, pre {
+.md-typeset code, kbd, pre {
   font-family: "Consolas","Monaco","Inconsolata","Roboto Mono",monospace;
+}
+.md-typeset code {
+  color: #ff4c4c;
 }
